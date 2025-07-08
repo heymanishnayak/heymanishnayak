@@ -25,15 +25,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-readme-stats-xi.vercel.app/api?username=DevyanshMalhotra&show_icons=true&include_all_commits=true" alt="Devyansh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishNayak&show_icons=true&include_all_commits=true&theme=radical" alt="Manish's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyanshMalhotra" alt="Devyansh's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ManishNayak&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevyanshMalhotra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ManishNayak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
