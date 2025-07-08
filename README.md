@@ -1,10 +1,11 @@
-# Hello World!, I'm Devyansh Malhotra 👋🏼   
-🎓 Pursuing **B.Tech in Information Technology** at **Kurukshetra University** (Graduating in 2025).    
+# Hello World!, I'm Manish Nayak 👋🏼  
+🎓 Pursuing **B.Tech in Information Technology** at **Kurukshetra University** (Graduating in 2025).   
+
 
 ---
 
 ## 🌐 Connect with Me:
-(https://www.linkedin.com/in/manishnayakofficial/)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/manishnayakofficial/
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/devyanshmalhotra)  
 
 ---
