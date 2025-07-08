@@ -1,13 +1,10 @@
-# Hello World!, I'm Devyansh Malhotra 👋🏼  
-🛜 **Freelance Software Developer** experienced in **Machine Learning, Distributed Systems, Blockchain** and **Full Stack Development**.  
-🎓 Pursuing **B.Tech in Information Technology** at **Kurukshetra University** (Graduating in 2025).  
-🏆 Placed **8th in National Hackathon Manthan (2023)** and 1st in multiple college-level competitions.  
-🔧 Currently enhancing **Blockchain** and **AI-driven applications**.  
+# Hello World!, I'm Devyansh Malhotra 👋🏼   
+🎓 Pursuing **B.Tech in Information Technology** at **Kurukshetra University** (Graduating in 2025).    
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyansh-malhotra-70aa72264/) 
+(https://www.linkedin.com/in/manishnayakofficial/)) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/devyanshmalhotra)  
 
 ---
